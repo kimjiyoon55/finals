@@ -1,0 +1,10 @@
+body {
+    background:white url("images/Moomin.png") no-repeat;
+    background-position:bottom;
+    background-size: 60%;
+    height:1000px;
+}
+
+li a {
+    color:green;
+}
