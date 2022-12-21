@@ -1,8 +1,8 @@
 body {
     background:white url("images/Moomin.png") no-repeat;
-    background-position:bottom;
-    background-size: 60%;
-    height:1000px;
+    background-position:margin;
+    width:60%
+    background-size: 30%;
 }
 
 li a {

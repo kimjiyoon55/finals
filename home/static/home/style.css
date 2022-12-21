@@ -1,7 +1,7 @@
 body {
     background: white url("images/background.png") no-repeat;
     background-position: bottom;
-    background-size: 100%;
+    background-size: 40%;
     height: 500px;
     border-top: 10px solid #ccc;
 }
